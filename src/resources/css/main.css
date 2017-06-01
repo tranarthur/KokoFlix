@@ -1,0 +1,73 @@
+/* author: khoatran
+*/
+#sideBar {
+    -fx-background-color: black;
+    -fx-font-family: Poppins;
+}
+#rightSide {
+}
+
+#gradient {
+    -fx-background-color: rgba(20, 20, 20, 0.6);
+    
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+.list-view{
+    -fx-background-color: transparent;
+    
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#328BDB 0%, #207BCF 25%, #1973C9 75%, #0A65BF 100%);
+    -fx-text-fill: white;
+}
+
+.list-cell:empty {
+    -fx-background-color: #B1090E;
+}
+
+.list-cell {
+    -fx-background-color: #B1090E;
+    -fx-text-fill: white;
+    -fx-font-size: 20;
+    
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #0093ff;
+    -fx-text-fill: white;
+}
+
+#title {
+    -fx-background-color: rgba(30, 30, 30, 0.75);
+}
+
+#logoBox {
+    -fx-background-color: #B1090E;
+}
+
+#movieInfo {
+    -fx-background-color: #B1090E;
+}
+
+#movieBox, #theaterBox {
+    -fx-background-color: #555555;
+}
+
+#descriptionBox, #infoPane {
+    -fx-background-color: rgba(30, 30, 30, 0.75);
+    -fx-font-family: Roboto;
+    -fx-font-size: 16;
+}
+
+#app {
+    -fx-background-color: #000000;
+}
+
+
+
+

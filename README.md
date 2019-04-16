@@ -8,5 +8,12 @@ to point at the jar file json-simple.. in dist/lib
 
 ![app screenshot](https://github.com/tranarthur/KokoFlix/blob/master/screenshots/kokoflix.png)
 
+## Authors
+[Dennis Suarez](https://github.com/dennisSuarez)
+- Wrote the backend code, retrieving JSON data from the API
+
+Myself
+- Developed the front end interface
+
 ## Acknowledgments
 This application uses [The Movie Database API](https://www.themoviedb.org/documentation/api) to retrieve details about movies (ex. movie information, movie poster, trailer link) as well as playtimes in theatres.

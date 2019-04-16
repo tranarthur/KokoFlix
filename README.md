@@ -7,3 +7,6 @@ If the IDE gives you any errors for the imports of the org.json.simple simply ma
 to point at the jar file json-simple.. in dist/lib
 
 ![app screenshot](https://github.com/tranarthur/KokoFlix/blob/master/screenshots/kokoflix.png)
+
+## Acknowledgments
+This application uses [The Movie Database API](https://www.themoviedb.org/documentation/api) to retrieve details about movies (ex. movie information, movie poster, trailer link) as well as playtimes in theatres.
